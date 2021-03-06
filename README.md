@@ -9,7 +9,7 @@ Create a password generating feature with random letters, numbers and special ch
 * CSS
 
 ## Website
-https://mmanalang21.github.io/urban-octo-telegram/
+https://mmanalang21.github.io/friendly-parakeet/
 
 ## Contribution
 Made with ❤️ by Matthew Manalang
