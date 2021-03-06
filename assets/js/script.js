@@ -1,6 +1,6 @@
 // Assignment code here
 // Create Arrays for each character types
-var lowerCase =[]
+var lowerCase =["a", "b", "C", "d", "e", "f", "g", "h", "i", "j"]
 var upperCase =[]
 var numeric =["0", "1", "2", "3", "4", "5", "6", "7", "8", "9"]
 var special =["@", "#", "!", "$", "%", "&", "?"]
